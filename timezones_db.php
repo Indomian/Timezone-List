@@ -91,443 +91,443 @@ $arTimezones=array(
 	),
 	'Europe/Ljubljana'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Любляна'
 	),
 	'Europe/London'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Лондон'
 	),
 	'Europe/Luxembourg'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Люксембург'
 	),
 	'Europe/Madrid'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Мадрид'
 	),
 	'Europe/Malta'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Мальта'
 	),
 	'Europe/Mariehamn'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Мариехамн'
 	),
 	'Europe/Minsk'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Европа/Минск'
 	),
 	'Europe/Monaco'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Монако'
 	),
 	'Europe/Moscow'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Европа/Москва'
 	),
 	'Europe/Nicosia'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Никосия'
 	),
 	'Europe/Oslo'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Осло'
 	),
 	'Europe/Paris'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Париж'
 	),
 	'Europe/Podgorica'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Подгорица'
 	),
 	'Europe/Prague'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Прага'
 	),
 	'Europe/Riga'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Европа/Рига'
 	),
 	'Europe/Rome'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Рим'
 	),
 	'Europe/Samara'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Европа/Самара'
 	),
 	'Europe/San_Marino'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Сан Марино'
 	),
 	'Europe/Sarajevo'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Сараево'
 	),
 	'Europe/Simferopol'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Европа/Симферополь'
 	),
 	'Europe/Skopje'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Скопье'
 	),
 	'Europe/Sofia'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/София'
 	),
 	'Europe/Stockholm'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Стокгольм'
 	),
 	'Europe/Tallinn'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Европа/Таллин'
 	),
 	'Europe/Tirane'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Тирана'
 	),
 	'Europe/Tiraspol'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Европа/Тирасполь'
 	),
 	'Europe/Uzhgorod'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Европа/Ужгород'
 	),
 	'Europe/Vaduz'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Вадуц'
 	),
 	'Europe/Vatican'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Ватикан'
 	),
 	'Europe/Vienna'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Вена'
 	),
 	'Europe/Vilnius'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Вильнюс'
 	),
 	'Europe/Volgograd'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Европа/Волгоград'
 	),
 	'Europe/Warsaw'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Варшава'
 	),
 	'Europe/Zagreb'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Загреб'
 	),
 	'Europe/Zaporozhye'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Европа/Запорожье'
 	),
 	'Europe/Zurich'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Европа/Цюрих'
 	),
 	'Asia/Aden'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Аден'
 	),
 	'Asia/Almaty'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Алма-ата'
 	),
 	'Asia/Amman'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амман'
 	),
 	'Asia/Anadyr'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Анадырь'
 	),
 	'Asia/Aqtau'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Актау'
 	),
 	'Asia/Aqtobe'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Актобе'
 	),
 	'Asia/Ashgabat'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Ашхабад'
 	),
 	'Asia/Ashkhabad'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Ашхабад'
 	),
 	'Asia/Baghdad'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Багдад'
 	),
 	'Asia/Bahrain'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Бахрейн'
 	),
 	'Asia/Baku'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Баку'
 	),
 	'Asia/Bangkok'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Бангкок'
 	),
 	'Asia/Beirut'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Бейрут'
 	),
 	'Asia/Bishkek'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Бишкек'
 	),
 	'Asia/Brunei'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Бруней'
 	),
 	'Asia/Calcutta'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Калькутта'
 	),
 	'Asia/Choibalsan'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Чойбалсан'
 	),
 	'Asia/Chongqing'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Чонгкинг'
 	),
 	'Asia/Chungking'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Чункинг'
 	),
 	'Asia/Colombo'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Коломбо'
 	),
 	'Asia/Dacca'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Дакка'
 	),
 	'Asia/Damascus'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Дамаск'
 	),
 	'Asia/Dhaka'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Дхара'
 	),
 	'Asia/Dili'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Дели'
 	),
 	'Asia/Dubai'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Дубай'
 	),
 	'Asia/Dushanbe'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Душанбе'
 	),
 	'Asia/Gaza'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Газа'
 	),
 	'Asia/Harbin'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Харбин'
 	),
 	'Asia/Ho_Chi_Minh'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Hong_Kong'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Hovd'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Irkutsk'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Иркутск'
 	),
 	'Asia/Istanbul'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Jakarta'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Jayapura'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Jerusalem'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Kabul'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Kamchatka'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Karachi'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Kashgar'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Kathmandu'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Katmandu'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Kolkata'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Krasnoyarsk'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Красноярск'
 	),
 	'Asia/Kuala_Lumpur'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Kuching'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Kuwait'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Macao'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Macau'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Magadan'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Магадан'
 	),
 	'Asia/Makassar'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Manila'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Muscat'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Nicosia'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Novokuznetsk'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Новокузнецк'
 	),
 	'Asia/Novosibirsk'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Новосибирск'
 	),
 	'Asia/Omsk'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Омск'
 	),
 	'Asia/Oral'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Арал'
 	),
 	'Asia/Phnom_Penh'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Pontianak'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Pyongyang'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Qatar'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Qyzylorda'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Rangoon'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Riyadh'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Saigon'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Sakhalin'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Сахалин'
 	),
 	'Asia/Samarkand'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Seoul'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Shanghai'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Singapore'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Амстердам'
 	),
 	'Asia/Taipei'=>array(
 		'active'=>0,
 		'title'=>'Европа/Амстердам'
 	),
 	'Asia/Tashkent'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Ташкент'
 	),
 	'Asia/Tbilisi'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Тбилиси'
 	),
 	'Asia/Tehran'=>array(
 		'active'=>0,
@@ -555,34 +555,34 @@ $arTimezones=array(
 	),
 	'Asia/Ulaanbaatar'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Улан-Батор'
 	),
 	'Asia/Ulan_Bator'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Улан-Батор'
 	),
 	'Asia/Urumqi'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Урумчи'
 	),
 	'Asia/Vientiane'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Вьентьян'
 	),
 	'Asia/Vladivostok'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Владивосток'
 	),
 	'Asia/Yakutsk'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Якутск'
 	),
 	'Asia/Yekaterinburg'=>array(
-		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'active'=>1,
+		'title'=>'Азия/Екатеринбург'
 	),
 	'Asia/Yerevan'=>array(
 		'active'=>0,
-		'title'=>'Европа/Амстердам'
+		'title'=>'Азия/Ереван'
 	),
 );
